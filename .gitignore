@@ -1,0 +1,3 @@
+*.~
+/cmd/massiv-daemon/massiv-daemon
+/cmd/massiv-ctl/massiv-ctl
