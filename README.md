@@ -7,3 +7,7 @@ This project is still under heavy development.
 ```
 useradd -r -M -U massiv
 ```
+
+## License
+
+MIT
