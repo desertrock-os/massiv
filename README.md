@@ -1,4 +1,4 @@
-# Massiv - A simple modern IPC
+# Massiv - A simple modern IPC and a straightforward alternative to DBUS
 
 This project is still under heavy development.
 
